@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation                Login Tests
+Documentation                Login Test
 
 Resource                     ../resources/main.resource
 
