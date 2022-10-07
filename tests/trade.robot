@@ -1,7 +1,7 @@
 *** Settings ***
 Documentation                 Teste de negociação de figurinhas da copa
 
-Resource                      ../resources/main.resource
+Resource                      ${CURDIR}${/}..\\resources\\main.resource
 
 Test Setup                    Start Test
 Test Teardown                 Finish Test
