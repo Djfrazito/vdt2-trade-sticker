@@ -1,7 +1,7 @@
 *** Settings ***
 Documentation                Login Tests
 
-Resource                     ${CURDIR}${/}..${/}resources${/}main.resource
+Resource                     ../resources/main.resource
 
 
 Test Setup                    Start Test
